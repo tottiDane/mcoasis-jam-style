@@ -1,0 +1,23 @@
+.h1.jam_title_header {
+   font-family: 'Lilita One', sans-serif;
+   font-size: 5.5em;
+   text-align: center;
+   font-weight: 900;
+   background-image: linear-gradient(to bottom, #ff7e5f, #86a8e7);
+   color: transparent;
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-stroke: 0.0015em black;
+}
+
+h2.custom-header {
+   font-family: 'Lilita One', sans-serif;
+   font-size: 3.5em;
+   text-align: center;
+   font-weight: 900;
+   background-image: linear-gradient(to bottom, #ff7e5f, #86a8e7);
+   color: transparent;
+   -webkit-background-clip: text;
+   background-clip: text;
+   -webkit-text-stroke: 0.0015em black;
+}
